@@ -1,6 +1,4 @@
 
-
-
 def oddNumbersBeforeZero(sequence):
 
     result = 0
@@ -12,4 +10,3 @@ def oddNumbersBeforeZero(sequence):
         print(result)
 
 oddNumbersBeforeZero([1, 2, 3, 0, 4, 5, 6, 0, 1])
-print("blah")
